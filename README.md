@@ -67,14 +67,6 @@ NewYorkCityBlog/
      xdg-open index.html
      ```
 
-## 🖼️ Screenshots
-
-Below is a preview of the New York City Blog page:
-
-![New York City Blog Preview](./assets/images/blog_preview.png)
-
-*Note: Make sure the image is saved in the path `./assets/images/blog_preview.png`*
-
 ## 🤝 Contributions
 
 Contributions are always welcome! Feel free to open a *Pull Request* or report an issue.
